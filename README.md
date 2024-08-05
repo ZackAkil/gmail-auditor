@@ -1,6 +1,8 @@
 # Gmail Autitor
 ## AppScript to audit how many emails you receive and reply to 
 
+### [See the subscription manger built into gmail](https://mail.google.com/mail/u/0/#sub)
+
 ![](email.png)
 
 ### What it does:
